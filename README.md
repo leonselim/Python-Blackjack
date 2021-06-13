@@ -1,2 +1,3 @@
-# PythonReps
-Compilation of Python Projects
+### ----------------- Black Jack ----------------- ###
+A simple version of Blackjack.
+
